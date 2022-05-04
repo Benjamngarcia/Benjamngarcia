@@ -1,4 +1,4 @@
-# Hey I'm [Benjamín García](https://github.com/Benjamngarcia) 👋
+# Hey my name is [Benjamín García](https://github.com/Benjamngarcia) 👋
 ##  Who I'm?
 💡  I like to learn new technologies and increase my knowledge about my favorites.   
 🎓  I'm currently studying Computer Programming at [Instituto Politécnico Nacional](https://www.ipn.mx/).  
