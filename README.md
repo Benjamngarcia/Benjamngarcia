@@ -1,4 +1,4 @@
-# Hey my name is [Benjamín García](https://github.com/Benjamngarcia) 👋
+# Hi, my name is [Benjamín García](https://github.com/Benjamngarcia) 👋
 ##  Who I'm?
 💡  I like to learn new technologies and increase my knowledge about my favorites.   
 🎓  I'm currently studying Computer Programming at [Instituto Politécnico Nacional](https://www.ipn.mx/).  
@@ -35,7 +35,7 @@
 ### Control version:
 [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px"/>]()
 ## Connect with me 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjam%C3%ADn-arturo-p%C3%A9rez-garc%C3%ADa-7957a6191/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/benjamngarcia)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/benjamngarcia/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Benjamin.1533)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjamincecyt9@gmail.com)
