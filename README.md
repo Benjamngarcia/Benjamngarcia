@@ -34,6 +34,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Windows_10x_Icon.png" width="50px"/>]()
 ### Control version:
 [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px"/>]()
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAQNEQVPqRIZ2-WfoHIY0i6u6Y3XzScBHsyJ-Oz0IYHZPEtBXKuBM46fvBmO4iRJYBECQ&usqp=CAU" width="50px"/>
 ## Connect with me 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/benjamngarcia)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/benjamngarcia/)
