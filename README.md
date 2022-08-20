@@ -23,6 +23,8 @@
 <img src="https://redclaustro.ucsj.edu.mx:7061/CDN/Libraries/Javascript/Bootstrap/4-0-0/assets/brand/bootstrap-social-logo.png" width="50px"/>
 <img src="https://static.wikia.nocookie.net/programa/images/6/62/Jquery.png/revision/latest?cb=20161203132816&path-prefix=es" width="50px"/>
 <img src="https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png" width="50px"/>
+<img src="https://i.imgur.com/osWktCq.png" width="50px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="50px"/>
 ### Backend:
 [<img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" width="50px"/>]()
 <img src="https://www.tultix.com/wp-content/uploads/2016/11/JAVA.png" width="50px"/>
@@ -30,6 +32,7 @@
 ### Databases:
 [<img src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" width="50px"/>]()
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" width="50px"/>
+<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_500,q_auto:good,w_500/v1/gcs/platform-data-goog/events/firebase_logo_hGsOO3M.png" width="50px"/>
 ### Operative systems:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Windows_10x_Icon.png" width="50px"/>]()
 ### Control version:
