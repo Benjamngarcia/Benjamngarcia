@@ -2,7 +2,7 @@
 ##  Who I'm?
 💡  I like to learn new technologies and increase my knowledge about my favorites.   
 🎓  I'm currently studying Computer Engineering at [Instituto Politécnico Nacional](https://www.ipn.mx/).  
-✉️  You can send me an email at benjamincecyt9@gmail.com
+✉️  You can send me an email at benjamincecyt9@gmail.com  
 🔎  In this account you can find school and personal projects
 ```javascript
   const AboutMe = {
