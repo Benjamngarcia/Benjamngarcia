@@ -1,7 +1,7 @@
-# Hi, my name is [Benjamín García](https://github.com/Benjamngarcia) 👋
+# Hi, my name is [Benjamín García](http://benjamngarcia.me/) 👋
 ##  Who I'm?
-💡  I like to learn new technologies and increase my knowledge about my favorites    
 🎓  I'm currently studying Computer Engineering at [Instituto Politécnico Nacional](https://www.ipn.mx/)  
+💡  I like to learn new technologies and increase my knowledge about my favorites    
 ✉️  You can send me an email at benjamincecyt9@gmail.com    
 🔎  In this profile you can find school and personal projects
 ```javascript
@@ -12,7 +12,10 @@
     },
     age: "19 y/o",
     hobbies: ["Travel", "Speedcube", "Watch movies", "Make educational content"],
-    tools: ["VsCode", "NetBeans", "Notepad ++", "Atom", "Figma", "UML", "WorkBench", "MongoDB compass","Android Studio", "Postman", "Trello"],
+    tools: [
+      "VsCode", "NetBeans", "Notepad ++", "Atom", "Figma", "UML", 
+      "WorkBench", "MongoDB compass","Android Studio", "Postman", "Trello"
+    ],
     role: ["Junior Web Developer", "Junior Frontend Developer"]
   }
 ```
