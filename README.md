@@ -48,3 +48,6 @@
 ### Control version:
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50px"/>]()
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50px"/>
+<hr />
+
+![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjamngarcia&count_private=true&show_icons=true&theme=react)
