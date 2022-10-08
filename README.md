@@ -45,5 +45,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50px"/>
 <hr />
 
-![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjamngarcia&count_private=true&show_icons=true&theme=react)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=benjamngarcia"/>
+![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjamngarcia&count_private=true&show_icons=true&theme=react) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=benjamngarcia&layout=compact&theme=react"/>
