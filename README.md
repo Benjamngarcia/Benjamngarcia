@@ -1,6 +1,6 @@
 # Hi, my name is [Benjamín García](http://benjamngarcia.me/) 👋
 ##  Who I'm?
-⚙️  I work as Frontend Developer with React
+⚙️  I work as Frontend Developer with React  
 🎓  I'm currently studying Computer Engineering at [Instituto Politécnico Nacional](https://www.ipn.mx/)  
 💡  I like to learn new technologies and increase my knowledge about my favorites    
 ✉️  You can send me an email at benjamin.webdev3@gmail.com    
