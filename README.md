@@ -3,7 +3,7 @@
 ⚙️  I work as Frontend Developer with React
 🎓  I'm currently studying Computer Engineering at [Instituto Politécnico Nacional](https://www.ipn.mx/)  
 💡  I like to learn new technologies and increase my knowledge about my favorites    
-✉️  You can send me an email at benjamincecyt9@gmail.com    
+✉️  You can send me an email at benjamin.webdev3@gmail.com    
 🔎  In this profile you can find school and personal projects
 ```javascript
 let moreInfo = {
