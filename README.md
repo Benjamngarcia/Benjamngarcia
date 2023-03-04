@@ -1,41 +1,22 @@
 # Hi, my name is [Benjamín García](http://benjamngarcia.me/) 👋
-##  Who I'm?
-⚙️  I work as Frontend Developer with React  
+## About me
+⚙️  I work as Frontend Developer with React at CodeNation Studio  
 🎓  I'm currently studying Computer Engineering at [Instituto Politécnico Nacional](https://www.ipn.mx/)  
-💡  I like to learn new technologies and increase my knowledge about my favorites    
-✉️  You can send me an email at benjamin.webdev3@gmail.com    
-🔎  In this profile you can find school and personal projects
-```javascript
-let moreInfo = {
-    tools: [
-      "VsCode", "NetBeans", "Notepad ++", "Atom", "Figma", "UML", "WorkBench", "MongoDB compass",
-      "Android Studio", "Postman", "Trello"
-    ],
-    role: ["Junior Web Developer", "Junior Frontend Developer"]
-  }
-```
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px"/>](https://www.linkedin.com/in/benjamngarcia)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50px"/>](https://www.facebook.com/Benjamin.1533)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50px"/>](mailto:benjamin.webdev3@gmail.com)
-## 🛠️ Skills
-### Frontend:
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px"/>]()
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="50px"/>
-### Backend:
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="50px"/>]()
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50px"/>
-### Databases:
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px"/>]()
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50px"/>
-<hr />
+💡  I like to share what I learn in [Dictamigos Community](https://dictamigos.xyz)  
+📢  I'm a member of [GDSC ESCOM](https://gdsc.community.dev/national-polytechnic-institute-of-mexico-escom/) core team     
+🔎  In this profile you can find school and personal projects  
+👇  Contact to me
 
+ <a aligh="left" href="https://benjamngarcia.me/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:benjamin.webdev3@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/benjamngarcia/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> <a aligh="left" href="http://instagram.com/benjamngarcia" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/instagram.svg" alt="Instagram" width="22" height="22" /></a>  
+
+
+
+
+
+
+
+ ## 🛠️ Skills
+   <a href="https://www.java.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/java.svg" alt="Java" width="25" height="25" /></a> <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="25" height="25" /></a> <a href="https://jquery.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/jquery.svg" alt="JQuery" width="25" height="25" /></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/sass.svg" alt="SASS" width="25" height="25" /></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/bootstrap.svg" alt="Bootstrap" width="25" height="25" /></a> <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/mui.svg" alt="Material UI" width="25" height="25" /></a> <a href="https://redux.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/redux.svg" alt="Redux" width="25" height="25" /></a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/webpack.svg" alt="Webpack" width="25" height="25" /></a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="http://expressjs.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" /></a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/mongodb.svg" alt="Mongo DB" width="25" height="25" /></a> <a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" /></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a> <a href="https://firebase.google.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/firebase.svg" alt="Firebase" width="25" height="25" /></a> <a href="https://www.heroku.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/heroku.svg" alt="Heroku" width="25" height="25" /></a>    
+   
 ![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjamngarcia&count_private=true&show_icons=true&theme=react) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benjamngarcia&layout=compact&theme=react"/>
