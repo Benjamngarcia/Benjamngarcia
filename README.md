@@ -1,20 +1,17 @@
-# Hi, my name is [Benjamín García](http://benjamngarcia.me/) 👋
+# Hi, my name is [Benjamín García](https://portfolio-benjamn.vercel.app/) 👋
 ## About me
-⚙️  I work as Frontend Developer with React at CodeNation Studio  
-🎓  I'm currently studying Computer Engineering at [Instituto Politécnico Nacional](https://www.ipn.mx/)  
-💡  I like to share what I learn in [Dictamigos Community](https://dictamigos.xyz)  
-📢  I'm a member of [GDSC ESCOM](https://gdsc.community.dev/national-polytechnic-institute-of-mexico-escom/) core team     
-🔎  In this profile you can find school and personal projects  
+I’m a passionate Fullstack Developer with a focus on frontend technologies such as React, NextJS, and NodeJS. I have experience working on both web and mobile applications, constantly striving to create optimized, efficient, and user-friendly solutions.  
+🎓  Currently studying Computer Engineering at [Instituto Politécnico Nacional](https://www.ipn.mx/)  
+💡  I am passionate about learning new technologies and improving my skills. I actively share my knowledge with others in Dictamigos Community where I am the founder. Additionally, I’m a member of the [GDSC ESCOM](https://gdsc.community.dev/national-polytechnic-institute-of-mexico-escom/) core team, helping organize tech-related events and workshops.  
+👨‍💻 On my GitHub, you’ll find a mix of school projects, personal projects, and contributions to open-source initiatives. I aim to create clean, efficient code that is easy to maintain and scale.       
 👇  Contact to me
 
- <a aligh="left" href="https://benjamngarcia.me/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:benjamin.webdev3@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/benjamngarcia/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> <a aligh="left" href="http://instagram.com/benjamngarcia" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/instagram.svg" alt="Instagram" width="22" height="22" /></a>  
-
-
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:benjamin.webdev3@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/benjamngarcia/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](http://instagram.com/benjamngarcia/)
 
 
  ## 🛠️ Skills
-   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="25" height="25" /></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/sass.svg" alt="SASS" width="25" height="25" /></a> <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/mui.svg" alt="Material UI" width="25" height="25" /></a> <a href="https://redux.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/redux.svg" alt="Redux" width="25" height="25" /></a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="http://expressjs.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" /></a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/mongodb.svg" alt="Mongo DB" width="25" height="25" /></a> <a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" /></a>    
-   
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,nodejs,apollo,prisma,mysql,postgres,firebase,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,notion,postman,powershell,webflow,gcp,vercel,netlify,planetscale)](https://skillicons.dev)  
