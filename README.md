@@ -11,7 +11,7 @@ Hi, I'm Benjamin, I’m a passionate Fullstack Developer with a focus on fronten
 
 ## Current Projects 🚀
 Currently, I am working on:
-- [Dictamigos](https://dictamigos-oficial-web-dictamigos.vercel.app/)
+- [Dictamigos](https://dictamigos.com/)
 - [Readme Builder](https://readmes-builder.vercel.app/)
 
 ## Stats 📊
