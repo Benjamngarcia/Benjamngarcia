@@ -1,7 +1,7 @@
 ## About Me 👤
 Hi, I'm Benjamin, I’m a passionate Fullstack Developer with a focus on frontend technologies such as React, NextJS, and NodeJS. I have experience working on both web and mobile applications, constantly striving to create optimized, efficient, and user-friendly solutions.  
 🎓  Currently studying Computer Engineering at [Instituto Politécnico Nacional](https://www.ipn.mx/)  
-💡  I am passionate about learning new technologies and improving my skills. I actively share my knowledge with others in Dictamigos Community where I am the founder.
+💡  I am passionate about learning new technologies and improving my skills. I actively share my knowledge with others in Dictamigos Community where I am the founder.  
 👨‍💻 On my GitHub, you’ll find a mix of school projects, personal projects, and contributions to open-source initiatives. I aim to create clean, efficient code that is easy to maintain and scale.    
 
 ## Tech stack 🛠
